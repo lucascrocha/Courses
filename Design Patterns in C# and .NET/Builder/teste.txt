@@ -1,0 +1,38 @@
+using System;
+using System.Collections.Generic;
+
+namespace Coding.Exercise
+{
+    public class CodeBuilder
+    {
+        string className, attributeName, varName;
+        List<string> attributes = new List<string>();
+        List<string> names = new List<string>();
+        
+        public CodeBuilder(string className)
+        {
+            this.className = className;
+        }
+        
+        public void AddField(string attributeName, string varName)
+        {
+            attributes.Add(attributeName);
+            names.Add(varName);
+        }
+        
+        public override string ToString()
+        {
+            return $"public class {className} \n{ public {attributeName} {varName};";
+        }
+    }
+    
+    public class Program
+    {
+        static void Main(string[] args)
+        {
+            var cb = new CodeBuilder("Person");
+        }
+    }
+    
+    
+}

@@ -1,0 +1,9 @@
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\testes-io\testes-io\bin\Debug\netcoreapp1.1\testes-io.deps.json
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\testes-io\testes-io\bin\Debug\netcoreapp1.1\testes-io.runtimeconfig.json
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\testes-io\testes-io\bin\Debug\netcoreapp1.1\testes-io.runtimeconfig.dev.json
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\testes-io\testes-io\bin\Debug\netcoreapp1.1\testes-io.dll
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\testes-io\testes-io\bin\Debug\netcoreapp1.1\testes-io.pdb
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\testes-io\testes-io\obj\Debug\netcoreapp1.1\testes-io.AssemblyInfo.cs
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\testes-io\testes-io\obj\Debug\netcoreapp1.1\testes-io.dll
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\testes-io\testes-io\obj\Debug\netcoreapp1.1\testes-io.pdb
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\testes-io\testes-io\obj\Debug\netcoreapp1.1\testes-io.csprojResolveAssemblyReference.cache

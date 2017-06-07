@@ -1,0 +1,5 @@
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\area-triangulo\area-triangulo\bin\Debug\netcoreapp1.1\area-triangulo.deps.json
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\area-triangulo\area-triangulo\bin\Debug\netcoreapp1.1\area-triangulo.runtimeconfig.json
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\area-triangulo\area-triangulo\bin\Debug\netcoreapp1.1\area-triangulo.runtimeconfig.dev.json
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\area-triangulo\area-triangulo\obj\Debug\netcoreapp1.1\area-triangulo.csprojResolveAssemblyReference.cache
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\area-triangulo\area-triangulo\obj\Debug\netcoreapp1.1\area-triangulo.AssemblyInfo.cs

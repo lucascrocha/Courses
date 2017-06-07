@@ -1,0 +1,9 @@
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\The SOLID Design Principles\DependencyInversionPrincipl\DependencyInversionPrincipl\bin\Debug\netcoreapp1.1\DependencyInversionPrincipl.deps.json
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\The SOLID Design Principles\DependencyInversionPrincipl\DependencyInversionPrincipl\bin\Debug\netcoreapp1.1\DependencyInversionPrincipl.runtimeconfig.json
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\The SOLID Design Principles\DependencyInversionPrincipl\DependencyInversionPrincipl\bin\Debug\netcoreapp1.1\DependencyInversionPrincipl.runtimeconfig.dev.json
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\The SOLID Design Principles\DependencyInversionPrincipl\DependencyInversionPrincipl\bin\Debug\netcoreapp1.1\DependencyInversionPrincipl.dll
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\The SOLID Design Principles\DependencyInversionPrincipl\DependencyInversionPrincipl\obj\Debug\netcoreapp1.1\DependencyInversionPrincipl.csprojResolveAssemblyReference.cache
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\The SOLID Design Principles\DependencyInversionPrincipl\DependencyInversionPrincipl\obj\Debug\netcoreapp1.1\DependencyInversionPrincipl.AssemblyInfo.cs
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\The SOLID Design Principles\DependencyInversionPrincipl\DependencyInversionPrincipl\bin\Debug\netcoreapp1.1\DependencyInversionPrincipl.pdb
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\The SOLID Design Principles\DependencyInversionPrincipl\DependencyInversionPrincipl\obj\Debug\netcoreapp1.1\DependencyInversionPrincipl.dll
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\The SOLID Design Principles\DependencyInversionPrincipl\DependencyInversionPrincipl\obj\Debug\netcoreapp1.1\DependencyInversionPrincipl.pdb

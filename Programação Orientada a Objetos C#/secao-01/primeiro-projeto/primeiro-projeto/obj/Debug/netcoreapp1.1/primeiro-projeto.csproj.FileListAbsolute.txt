@@ -1,0 +1,8 @@
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\primeiro-projeto\primeiro-projeto\bin\Debug\netcoreapp1.1\primeiro-projeto.deps.json
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\primeiro-projeto\primeiro-projeto\bin\Debug\netcoreapp1.1\primeiro-projeto.runtimeconfig.json
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\primeiro-projeto\primeiro-projeto\bin\Debug\netcoreapp1.1\primeiro-projeto.runtimeconfig.dev.json
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\primeiro-projeto\primeiro-projeto\bin\Debug\netcoreapp1.1\primeiro-projeto.dll
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\primeiro-projeto\primeiro-projeto\bin\Debug\netcoreapp1.1\primeiro-projeto.pdb
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\primeiro-projeto\primeiro-projeto\obj\Debug\netcoreapp1.1\primeiro-projeto.AssemblyInfo.cs
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\primeiro-projeto\primeiro-projeto\obj\Debug\netcoreapp1.1\primeiro-projeto.dll
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\primeiro-projeto\primeiro-projeto\obj\Debug\netcoreapp1.1\primeiro-projeto.pdb

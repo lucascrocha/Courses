@@ -1,0 +1,9 @@
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\Builder\LifeWithoutBuilder\LifeWithoutBuilder\bin\Debug\netcoreapp1.1\LifeWithoutBuilder.deps.json
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\Builder\LifeWithoutBuilder\LifeWithoutBuilder\bin\Debug\netcoreapp1.1\LifeWithoutBuilder.runtimeconfig.json
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\Builder\LifeWithoutBuilder\LifeWithoutBuilder\bin\Debug\netcoreapp1.1\LifeWithoutBuilder.runtimeconfig.dev.json
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\Builder\LifeWithoutBuilder\LifeWithoutBuilder\bin\Debug\netcoreapp1.1\LifeWithoutBuilder.dll
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\Builder\LifeWithoutBuilder\LifeWithoutBuilder\bin\Debug\netcoreapp1.1\LifeWithoutBuilder.pdb
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\Builder\LifeWithoutBuilder\LifeWithoutBuilder\obj\Debug\netcoreapp1.1\LifeWithoutBuilder.csprojResolveAssemblyReference.cache
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\Builder\LifeWithoutBuilder\LifeWithoutBuilder\obj\Debug\netcoreapp1.1\LifeWithoutBuilder.AssemblyInfo.cs
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\Builder\LifeWithoutBuilder\LifeWithoutBuilder\obj\Debug\netcoreapp1.1\LifeWithoutBuilder.dll
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\Builder\LifeWithoutBuilder\LifeWithoutBuilder\obj\Debug\netcoreapp1.1\LifeWithoutBuilder.pdb

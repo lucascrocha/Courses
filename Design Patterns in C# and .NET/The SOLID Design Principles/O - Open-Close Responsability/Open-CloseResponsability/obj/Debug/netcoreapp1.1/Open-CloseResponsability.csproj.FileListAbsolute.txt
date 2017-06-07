@@ -1,0 +1,9 @@
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\Open-CloseResponsability\Open-CloseResponsability\bin\Debug\netcoreapp1.1\Open-CloseResponsability.deps.json
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\Open-CloseResponsability\Open-CloseResponsability\bin\Debug\netcoreapp1.1\Open-CloseResponsability.runtimeconfig.json
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\Open-CloseResponsability\Open-CloseResponsability\bin\Debug\netcoreapp1.1\Open-CloseResponsability.runtimeconfig.dev.json
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\Open-CloseResponsability\Open-CloseResponsability\bin\Debug\netcoreapp1.1\Open-CloseResponsability.dll
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\Open-CloseResponsability\Open-CloseResponsability\bin\Debug\netcoreapp1.1\Open-CloseResponsability.pdb
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\Open-CloseResponsability\Open-CloseResponsability\obj\Debug\netcoreapp1.1\Open-CloseResponsability.csprojResolveAssemblyReference.cache
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\Open-CloseResponsability\Open-CloseResponsability\obj\Debug\netcoreapp1.1\Open-CloseResponsability.AssemblyInfo.cs
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\Open-CloseResponsability\Open-CloseResponsability\obj\Debug\netcoreapp1.1\Open-CloseResponsability.dll
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\Open-CloseResponsability\Open-CloseResponsability\obj\Debug\netcoreapp1.1\Open-CloseResponsability.pdb

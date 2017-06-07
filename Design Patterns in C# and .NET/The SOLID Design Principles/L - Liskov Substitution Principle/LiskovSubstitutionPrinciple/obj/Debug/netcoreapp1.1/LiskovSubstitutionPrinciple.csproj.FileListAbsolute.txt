@@ -1,0 +1,8 @@
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\The SOLID Design Principles\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp1.1\LiskovSubstitutionPrinciple.deps.json
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\The SOLID Design Principles\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp1.1\LiskovSubstitutionPrinciple.runtimeconfig.json
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\The SOLID Design Principles\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp1.1\LiskovSubstitutionPrinciple.runtimeconfig.dev.json
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\The SOLID Design Principles\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp1.1\LiskovSubstitutionPrinciple.dll
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\The SOLID Design Principles\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp1.1\LiskovSubstitutionPrinciple.pdb
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\The SOLID Design Principles\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp1.1\LiskovSubstitutionPrinciple.AssemblyInfo.cs
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\The SOLID Design Principles\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp1.1\LiskovSubstitutionPrinciple.dll
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\The SOLID Design Principles\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp1.1\LiskovSubstitutionPrinciple.pdb

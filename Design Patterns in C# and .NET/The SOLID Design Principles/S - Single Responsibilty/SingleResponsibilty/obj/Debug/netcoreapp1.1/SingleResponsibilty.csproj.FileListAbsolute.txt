@@ -1,0 +1,9 @@
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\SingleResponsibilty\SingleResponsibilty\bin\Debug\netcoreapp1.1\SingleResponsibilty.deps.json
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\SingleResponsibilty\SingleResponsibilty\bin\Debug\netcoreapp1.1\SingleResponsibilty.runtimeconfig.json
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\SingleResponsibilty\SingleResponsibilty\bin\Debug\netcoreapp1.1\SingleResponsibilty.runtimeconfig.dev.json
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\SingleResponsibilty\SingleResponsibilty\bin\Debug\netcoreapp1.1\SingleResponsibilty.dll
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\SingleResponsibilty\SingleResponsibilty\bin\Debug\netcoreapp1.1\SingleResponsibilty.pdb
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\SingleResponsibilty\SingleResponsibilty\obj\Debug\netcoreapp1.1\SingleResponsibilty.csprojResolveAssemblyReference.cache
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\SingleResponsibilty\SingleResponsibilty\obj\Debug\netcoreapp1.1\SingleResponsibilty.AssemblyInfo.cs
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\SingleResponsibilty\SingleResponsibilty\obj\Debug\netcoreapp1.1\SingleResponsibilty.dll
+C:\Users\TREINAMENTO\Desktop\Curso\Design Patterns in C# and .NET\SingleResponsibilty\SingleResponsibilty\obj\Debug\netcoreapp1.1\SingleResponsibilty.pdb

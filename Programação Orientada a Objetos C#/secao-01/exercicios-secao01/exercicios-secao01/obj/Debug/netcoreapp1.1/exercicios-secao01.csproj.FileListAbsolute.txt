@@ -1,0 +1,9 @@
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\exercicios-secao01\exercicios-secao01\bin\Debug\netcoreapp1.1\exercicios-secao01.deps.json
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\exercicios-secao01\exercicios-secao01\bin\Debug\netcoreapp1.1\exercicios-secao01.runtimeconfig.json
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\exercicios-secao01\exercicios-secao01\bin\Debug\netcoreapp1.1\exercicios-secao01.runtimeconfig.dev.json
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\exercicios-secao01\exercicios-secao01\bin\Debug\netcoreapp1.1\exercicios-secao01.dll
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\exercicios-secao01\exercicios-secao01\bin\Debug\netcoreapp1.1\exercicios-secao01.pdb
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\exercicios-secao01\exercicios-secao01\obj\Debug\netcoreapp1.1\exercicios-secao01.AssemblyInfo.cs
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\exercicios-secao01\exercicios-secao01\obj\Debug\netcoreapp1.1\exercicios-secao01.dll
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\exercicios-secao01\exercicios-secao01\obj\Debug\netcoreapp1.1\exercicios-secao01.pdb
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\exercicios-secao01\exercicios-secao01\obj\Debug\netcoreapp1.1\exercicios-secao01.csprojResolveAssemblyReference.cache

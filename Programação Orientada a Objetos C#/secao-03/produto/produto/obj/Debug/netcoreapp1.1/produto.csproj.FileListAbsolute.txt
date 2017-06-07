@@ -1,0 +1,9 @@
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\secao-03\produto\produto\bin\Debug\netcoreapp1.1\produto.deps.json
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\secao-03\produto\produto\bin\Debug\netcoreapp1.1\produto.runtimeconfig.json
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\secao-03\produto\produto\bin\Debug\netcoreapp1.1\produto.runtimeconfig.dev.json
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\secao-03\produto\produto\bin\Debug\netcoreapp1.1\produto.dll
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\secao-03\produto\produto\bin\Debug\netcoreapp1.1\produto.pdb
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\secao-03\produto\produto\obj\Debug\netcoreapp1.1\produto.csprojResolveAssemblyReference.cache
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\secao-03\produto\produto\obj\Debug\netcoreapp1.1\produto.AssemblyInfo.cs
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\secao-03\produto\produto\obj\Debug\netcoreapp1.1\produto.dll
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\secao-03\produto\produto\obj\Debug\netcoreapp1.1\produto.pdb

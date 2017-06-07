@@ -1,0 +1,9 @@
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\teste-vs2017\teste-vs2017\bin\Debug\netcoreapp1.1\teste-vs2017.deps.json
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\teste-vs2017\teste-vs2017\bin\Debug\netcoreapp1.1\teste-vs2017.runtimeconfig.json
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\teste-vs2017\teste-vs2017\bin\Debug\netcoreapp1.1\teste-vs2017.runtimeconfig.dev.json
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\teste-vs2017\teste-vs2017\bin\Debug\netcoreapp1.1\teste-vs2017.dll
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\teste-vs2017\teste-vs2017\bin\Debug\netcoreapp1.1\teste-vs2017.pdb
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\teste-vs2017\teste-vs2017\obj\Debug\netcoreapp1.1\teste-vs2017.csprojResolveAssemblyReference.cache
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\teste-vs2017\teste-vs2017\obj\Debug\netcoreapp1.1\teste-vs2017.AssemblyInfo.cs
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\teste-vs2017\teste-vs2017\obj\Debug\netcoreapp1.1\teste-vs2017.dll
+C:\Users\TREINAMENTO\Desktop\Curso\Programação Orientada a Objetos C#\teste-vs2017\teste-vs2017\obj\Debug\netcoreapp1.1\teste-vs2017.pdb
